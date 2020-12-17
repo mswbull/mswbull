@@ -1,16 +1,16 @@
-### Hi there 👋
+My name is Matt Bull. I live in the UK with my wife, son, and daughter. I am the Chief Technology Officer (CTO) at [Elanco](https://www.elanco.com/).
 
-<!--
-**mswbull/mswbull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blog Posts
+1. [Development](https://www.lifeintech.com/tag/development/)
+2. [Programming](https://www.lifeintech.com/tag/programming/)
+3. [Architecture](https://www.lifeintech.com/tag/architecture/)
+4. [Hardware](https://www.lifeintech.com/tag/hardware/)
+5. [Software](https://www.lifeintech.com/tag/software/)
+6. [Blockchain](https://www.lifeintech.com/tag/blockchain/)
+7. [Artificial Intelligence](https://www.lifeintech.com/tag/artificial_intelligence/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+* [Blog](https://www.lifeintech.com/)
+* [Email](mailto:mswbull@gmail.com)
+* [Twitter](https://twitter.com/mswbull)
+* [LinkedIn](https://www.linkedin.com/in/mswbull/)

@@ -8,6 +8,7 @@ My name is Matt Bull. I live in the UK with my wife, son, and daughter. I am the
 5. [Software](https://www.lifeintech.com/tag/software/)
 6. [Blockchain](https://www.lifeintech.com/tag/blockchain/)
 7. [Artificial Intelligence](https://www.lifeintech.com/tag/artificial_intelligence/)
+8. [Quantum Computing](https://www.lifeintech.com/tag/quantum_computing/)
 
 ### Contact
 * [Blog](https://www.lifeintech.com/)

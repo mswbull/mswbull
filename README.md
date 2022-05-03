@@ -1,4 +1,4 @@
-My name is Matt Bull. I live in the UK with my wife, son, and daughter. I am the Chief Technology Officer (CTO) at [Elanco](https://www.elanco.com/).
+My name is Matt Bull. I live in the UK with my wife, son, and daughter. I am the Chief Technology Officer (CTO) and Chief Information Security Officer (CISO) at [Elanco](https://www.elanco.com/).
 
 ### Blog Posts
 1. [Development](https://www.lifeintech.com/tag/development/)
